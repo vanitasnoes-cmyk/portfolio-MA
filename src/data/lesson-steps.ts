@@ -43,7 +43,7 @@ export const LESSON_STEPS: LessonStep[][] = [
     { text: '1. Lựa chọn và thiết lập công cụ: Thống nhất sử dụng Microsoft Teams để họp thảo luận, Trello (Kanban) quản trị dự án, Google Drive lưu trữ và chia sẻ tài nguyên video thô, Zalo giao tiếp nhanh cho dự án Nhóm 21.' },
     { text: '2. Lên kế hoạch sản xuất Video TikTok: Xây dựng dự án sản xuất video "Một ngày của sinh viên Y1 UMPVNU" nhằm mô tả cuộc sống tân binh trường Y áp lực Giải phẫu, Xác suất thống kê qua lăng kính vlogs TikTok 9:16.' },
     { text: '3. Thực hiện vai trò cá nhân: Đảm nhận vị trí biên kịch, diễn viên, quay phim và Editor. Phân công mỗi thành viên trong nhóm tự sản xuất và chỉnh sửa một video vlogs cá nhân của mình.' },
-    { text: '4. Tổ chức tài nguyên và giải quyết rào cản Drive: Thiết lập cấu trúc thư mục Google Drive nhóm khoa học ([01_Canh_Giang_Duong], [02_Canh_Tu_Hoc]...). Ban hành quy định đẩy file video thô lên Drive để tránh thuật toán nén làm vỡ nét video.' },
+    { text: '4. Đăng video thành phẩm: Đăng video thành phẩm và phần nào nhận đc sự đón nhận của mọi người' },
     { text: '5. Quản trị xung đột trực tuyến và kết luận: Giải quyết hiệu quả sự thiếu hụt tương tác của thành viên thông qua các minh chứng số (lịch sử cập nhật Trello/Drive), đúc kết kỹ năng điều phối khủng hoảng nhân sự trên không gian ảo.' }
   ],
 
