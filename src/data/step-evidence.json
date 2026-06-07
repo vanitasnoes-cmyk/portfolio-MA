@@ -119,7 +119,7 @@
       "/images/steps/bt5/03.png",
       "/images/steps/bt5/04.png"
     ],
-    null,
+    "/images/steps/bt5/07.jpg",
     [
       "/images/steps/bt5/05.png",
       "/images/steps/bt5/06.png"
@@ -133,6 +133,7 @@
       "/images/steps/bt6/03.png",
       "/images/steps/bt6/04.png"
     ],
+    null,
     null,
     "/images/steps/bt6/05.png"
   ],

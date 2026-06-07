@@ -54,15 +54,16 @@ export const LESSON_STEPS: LessonStep[][] = [
     { text: '3. Tạo ảnh nhân vật 3D bằng Bing Image Creator: Soạn prompt mô tả chi tiết nhân vật sinh viên Y khoa 3D phong cách Pixar, đang panic ôm đầu bên đống giáo trình Giải phẫu để làm mồi nhử thị giác (Hook) thu hút Gen Z.' },
     { text: '4. Biên tập video trên CapCut AI: Sử dụng template video CapCut, can thiệp bóc tách các lớp layer bị lỗi, xóa bỏ chữ rác của template, và điều chỉnh video đúng thời lượng vàng 5 giây để tối ưu thuật toán TikTok.' },
     { text: '5. Đánh giá vai trò của AI tạo sinh: Nhận định AI là trợ lý đắc lực giúp giải phóng sức lao động, nâng cao hiệu suất thiết kế video truyền thông và giải quyết triệt để vấn đề bản quyền hình ảnh y khoa.' },
-    { text: '6. Trách nhiệm chuyên môn và đạo đức: Thực hiện kiểm chứng tính chính xác của tên các xương y khoa trong kịch bản và caption, tự chịu trách nhiệm chuyên môn cuối cùng đối với sản phẩm số truyền thông sức khỏe.' }
+    { text: '6. Trách nhiệm chuyên môn và đạo đức: Nhận thức rõ ranh giới giữa việc ứng dụng và lạm dụng công nghệ, tôi lựa chọn tiếp cận AI theo mô hình cộng tác thông minh. Trong đó, AI đóng vai trò tối ưu hóa các tác vụ kỹ thuật và khơi nguồn ý tưởng, còn năng lực phân tích, tính định hướng và chiều sâu nội dung hoàn toàn dựa trên nền tảng tư duy cốt lõi của bản thân. Điều này đảm bảo sản phẩm sáng tạo vừa mang tính thời đại, vừa giữ vững giá trị thực tiễn và tính chân thực.' }
   ],
 
   // ─── BÀI 6: Sử dụng AI có trách nhiệm trong học tập và nghiên cứu ───
   [
     { text: '1. Nghiên cứu chính sách AI của VinUniversity: Tìm hiểu Guidelines của VinUni về việc sử dụng AI, phân tích sâu Thang đánh giá mức độ sử dụng AI (AIAS) trong học tập và thi cử.' },
     { text: '2. Viết bài luận về Đạo đức và Liêm chính học thuật: Sử dụng ChatGPT hỗ trợ lập dàn ý bài luận phân tích ranh giới giữa hỗ trợ hợp lý và gian lận học thuật, sở hữu trí tuệ và sự suy giảm tư duy độc lập khi lạm dụng AI.' },
-    { text: '3. Xem chi tiết trong báo cáo.' },
-    { text: '4. Qua bài học trên, sự hiểu biết về thông tin liêm chính học thuật và xây dựng được bộ nguyên tắc cho chính bẳn thân mình. Kiến thức sẽ được áp dụng và ghi nhớ trong tương lai.' }
+    { text: '3. Tinh chỉnh phản biện và cải thiện bài luận: Xem chi tiết trong báo cáo.' },
+    { text: '4. Đúc kết bộ 6 nguyên tắc cá nhân sử dụng AI' },
+    { text: '5. Trực quan hóa và kết luận liêm chính: Qua bài học, tôi đã nâng cao nhận thức về liêm chính học thuật và xây dựng được bộ nguyên tắc ứng dụng AI cho riêng mình: Luôn lấy công nghệ làm bệ phóng, nhưng giữ vững tư duy và bản sắc cá nhân làm cốt lõi.' }
   ],
 
   // ─── BÀI 7: Quy trình Telemedicine hỗ trợ AI cho bệnh nhân tăng huyết áp miền núi ───
