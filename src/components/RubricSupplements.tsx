@@ -118,7 +118,7 @@ function Task2Supplements() {
         </table>
       </div>
     </SupplementShell>
-    <SupplementShell title="Phân tích CRAAP — 1 bài báo khoa học" rubricRef="§3 · CRAAP">
+    <SupplementShell title="Tiêu trí đánh giá CRAAP" rubricRef="§3 · CRAAP">
       <div className="overflow-x-auto rounded-xl border border-emerald-100 dark:border-emerald-900/40 bg-emerald-50/30 dark:bg-emerald-950/20">
         <table className="w-full text-left text-[11px] font-sans">
           <thead>

@@ -19,14 +19,14 @@
     ],
     [
       "/images/steps/bt1/11.jpg",
-      "/images/steps/bt1/12.jpg",
+      "/images/steps/bt1/12.jpg"
+    ],
+    [
       "/images/steps/bt1/13.jpg"
     ],
     [
       "/images/steps/bt1/14.jpg",
-      "/images/steps/bt1/15.jpg"
-    ],
-    [
+      "/images/steps/bt1/15.jpg",
       "/images/steps/bt1/16.jpg",
       "/images/steps/bt1/17.jpg"
     ],
@@ -101,15 +101,15 @@
     ],
     [
       "/images/steps/bt4/08.png",
-      "/images/steps/bt4/09.png",
-      "/images/steps/bt4/13.png",
-      "/images/steps/bt4/14.png",
-      "/images/steps/bt4/15.png"
+      "/images/steps/bt4/09.png"
     ],
     [
       "/images/steps/bt4/10.png",
       "/images/steps/bt4/11.png",
-      "/images/steps/bt4/12.png"
+      "/images/steps/bt4/12.png",
+      "/images/steps/bt4/13.png",
+      "/images/steps/bt4/14.png",
+      "/images/steps/bt4/15.png"
     ]
   ],
   "bt5": [
