@@ -691,7 +691,7 @@ function App() {
           {/* Banner Contents */}
           <div className="relative z-20 text-center px-4 sm:px-6 max-w-4xl">
             <p className="text-[#ede9fe] text-[13px] sm:text-[16px] md:text-[18px] font-bold tracking-widest uppercase drop-shadow-md font-sans">
-              Hành Trình Trải Nghiệm &amp; Kỹ Năng Số Học Thuật
+              Hành trình trải nghiệm và áp dụng kĩ năng số.
             </p>
             
             {/* The main title */}
@@ -761,7 +761,7 @@ function App() {
                   Chuyên ngành
                 </div>
                 <p className="text-[11px] text-slate-600 dark:text-slate-300 leading-relaxed font-semibold">
-                  <strong className="text-[#5b21b6] dark:text-white">Đặng Mai Anh</strong>, sinh viên thuộc khối ngành Y khoa, hệ thống thông tin (Lớp VNU1001-E252027). Trường Đại học Y Dược, Đại học Quốc gia Hà Nội (VNU-UMP).
+                  <strong className="text-[#5b21b6] dark:text-white">Đặng Mai Anh</strong>, sinh viên thuộc khối ngành Y khoa, hệ thống thông tin (Lớp QH.2025.YE). Trường Đại học Y Dược, Đại học Quốc gia Hà Nội (VNU-UMP).
                 </p>
               </div>
 
