@@ -165,11 +165,6 @@ export const VNU_RUBRIC_SECTIONS: RubricSection[] = [
           'Sản phẩm (Infographic Trợ lý phục hồi chức năng sau tai biến) có thiết kế sáng tạo, chuyên nghiệp, không lỗi kỹ thuật.',
       },
       {
-        id: 's6-2',
-        label: 'Quy trình 6 bước',
-        description: 'Mô tả chi tiết từ khâu lên ý tưởng đến đo lường hiệu quả (KPIs).',
-      },
-      {
         id: 's6-3',
         label: 'Tận dụng công cụ',
         description:
