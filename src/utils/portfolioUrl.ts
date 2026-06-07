@@ -87,7 +87,7 @@ export function applyPortfolioUrl(state: PortfolioUrlState, replace = true): voi
   }
 }
 
-export function stepTitleFromText(text: string, maxLen = 48): string {
+export function stepTitleFromText(text: string, maxLen = 64): string {
   const stripped = text.replace(/^\d+\.\s*/, '').trim();
   const colon = stripped.indexOf(':');
   const head = colon > 0 ? stripped.slice(0, colon) : stripped;

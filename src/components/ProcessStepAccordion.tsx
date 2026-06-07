@@ -129,7 +129,7 @@ export function ProcessStepAccordion({
                 id={`step-panel-${lessonNumber}-${stepNum}`}
                 className="px-3.5 pb-3.5 pt-0 border-t border-slate-50 dark:border-slate-800/60 space-y-2.5"
               >
-                <p className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-semibold pl-9">
+                <p className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-semibold pl-9 whitespace-pre-line">
                   {step.text}
                 </p>
                 {lessonNumber === 3 && stepNum === 4 && (
