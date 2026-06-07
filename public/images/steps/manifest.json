@@ -64,29 +64,27 @@
   ],
   "bt3": [
     null,
+    null,
     [
       "/images/steps/bt3/02.png",
       "/images/steps/bt3/03.png",
       "/images/steps/bt3/04.png",
       "/images/steps/bt3/05.png",
       "/images/steps/bt3/06.png",
-      "/images/steps/bt3/07.png"
-    ],
-    [
+      "/images/steps/bt3/07.png",
       "/images/steps/bt3/08.png",
       "/images/steps/bt3/09.png",
       "/images/steps/bt3/10.png",
       "/images/steps/bt3/11.png",
       "/images/steps/bt3/12.png",
-      "/images/steps/bt3/13.png"
-    ],
-    [
+      "/images/steps/bt3/13.png",
       "/images/steps/bt3/14.png",
       "/images/steps/bt3/15.png",
       "/images/steps/bt3/16.png",
       "/images/steps/bt3/17.png",
       "/images/steps/bt3/18.png"
     ],
+    null,
     null
   ],
   "bt4": [

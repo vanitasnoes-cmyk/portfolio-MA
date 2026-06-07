@@ -26,7 +26,7 @@ export const LESSON_STEPS: LessonStep[][] = [
     { text: '2. Xác định phạm vi tìm kiếm thông tin: Giới hạn thời gian từ năm 2018 đến 2026. Tìm kiếm các bài báo khoa học, báo cáo công nghệ và sách chuyên khảo trên Google Scholar, PubMed, Cochrane Library với các từ khóa CNN, GAN, hiện tượng "Hộp đen", rủi ro dữ liệu sai lệch.' },
     { text: '3. Tìm kiếm tài liệu chuyên ngành: Thu thập 10 nguồn tài liệu y sinh uy tín từ Diagnostics, Radiologia, Bioengineering, British Journal of Radiology, thông tin phê duyệt của FDA đối với phần mềm MIM Contour ProtégéAI của GE HealthCare, và Báo Tuổi Trẻ.' },
     { text: '4. Đánh giá độ tin cậy của nguồn thông tin: Thẩm định 10 nguồn thông tin dựa trên 5 tiêu chí: Uy tín tác giả, Cơ quan/Tạp chí xuất bản, Phương pháp nghiên cứu, Số lượng trích dẫn học thuật và Tính cập nhật của tài liệu.' },
-    { text: '5. Kết luận & Tổng hợp lâm sàng: Tổng hợp vai trò của AI hỗ trợ vẽ đường bao khối u tự động trên ảnh CT/MRI giúp tối ưu hóa lập kế hoạch xạ trị, song song đánh giá rủi ro về định kiến tự động hóa và sự cần thiết của sự giám sát của bác sĩ chuyên khoa.' }
+    { text: '5. Kết luận & Tổng hợp lâm sàng: Qua bài tôi đã biết cách tìm tài liệu ở các nguồn uy tín đồng thời đánh giá độ uy tín của nguồn.' }
   ],
 
   // ─── BÀI 3: Kỹ năng Prompt Engineering trong Học tập y khoa ───
