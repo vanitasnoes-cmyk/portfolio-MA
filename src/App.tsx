@@ -1241,7 +1241,7 @@ function App() {
         <footer className="bg-[#5b21b6] border-t-[2.5px] border-[#7c3aed] py-12 px-6 text-center text-white/80 relative z-10">
           <div className="max-w-5xl mx-auto space-y-4">
             <p className="text-sm font-black uppercase tracking-widest text-white font-sans">
-              Đặng Mai Anh • Sinh viên Y Dược Tương Lai
+              Đặng Mai Anh • Sinh viên Y Dược
             </p>
             <p className="text-xs text-[#ede9fe] font-semibold max-w-xl mx-auto font-sans">
               Sinh viên lớp VNU1001-E252027 • Trường Đại học Y Dược, Đại học Quốc gia Hà Nội

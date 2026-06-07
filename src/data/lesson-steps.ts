@@ -61,15 +61,14 @@ export const LESSON_STEPS: LessonStep[][] = [
   [
     { text: '1. Nghiên cứu chính sách AI của VinUniversity: Tìm hiểu Guidelines của VinUni về việc sử dụng AI, phân tích sâu Thang đánh giá mức độ sử dụng AI (AIAS) trong học tập và thi cử.' },
     { text: '2. Viết bài luận về Đạo đức và Liêm chính học thuật: Sử dụng ChatGPT hỗ trợ lập dàn ý bài luận phân tích ranh giới giữa hỗ trợ hợp lý và gian lận học thuật, sở hữu trí tuệ và sự suy giảm tư duy độc lập khi lạm dụng AI.' },
-    { text: '3. Tinh chỉnh phản biện và cải thiện bài luận: Phản biện bài viết do AI soạn, phát hiện trích dẫn ảo giác, bổ sung nghiên cứu Selwyn (2020), bản địa hóa nội dung bằng cách lồng ghép thang AIAS của VinUni, và biên tập loại bỏ từ nối rập khuôn.' },
-    { text: '4. Đúc kết Bộ 6 nguyên tắc cá nhân sử dụng AI: Đưa ra 6 nguyên tắc: (1) Trung thực & minh bạch, (2) Giữ vai trò chủ động, (3) Tôn trọng bản quyền, (4) Kiểm chứng thông tin, (5) Phát triển năng lực, (6) Trách nhiệm xã hội.' },
-    { text: '5. Trực quan hóa và kết luận liêm chính: Thiết kế infographic trực quan hóa các nguyên tắc, đúc kết bài học rằng AI chỉ là bệ phóng còn con người phải luôn là chủ thể chịu trách nhiệm cho các sản phẩm nghiên cứu.' }
+    { text: '3. Xem chi tiết trong báo cáo.' },
+    { text: '4. Qua bài học trên, sự hiểu biết về thông tin liêm chính học thuật và xây dựng được bộ nguyên tắc cho chính bẳn thân mình. Kiến thức sẽ được áp dụng và ghi nhớ trong tương lai.' }
   ],
 
   // ─── BÀI 7: Quy trình Telemedicine hỗ trợ AI cho bệnh nhân tăng huyết áp miền núi ───
   [
     { text: '1. Đề xuất quy trình Telemedicine hỗ trợ AI: Lên ý tưởng quy trình khám bệnh từ xa cho bệnh nhân tăng huyết áp tại vùng núi khó khăn, kết hợp chatbot triệu chứng, thiết bị đo huyết áp IoT tại xã, AI Cloud phân tích dữ liệu và hồ sơ bệnh án điện tử.' },
-    { text: '2. Thiết kế Flowchart quy trình khám bệnh: Xây dựng sơ đồ quy trình khám bệnh từ xa 5 bước: (1) Sàng lọc triệu chứng qua chatbot, (2) Đo huyết áp IoT tại xã/nhà, (3) AI Cloud phân tích cảnh báo nguy cơ, (4) Hội chẩn trực tuyến, (5) AI nhắc lịch uống thuốc.' },
+    { text: '2. Xây dựng sơ đồ quy trình khám bệnh từ xa.' },
     { text: '3. Phân tích vai trò AI trong lâm sàng: AI đóng vai trò là trợ lý thu thập chỉ số tự động, đưa ra cảnh báo sớm nguy cơ đột quỵ từ dữ liệu lịch sử và gợi ý phác đồ lâm sàng chuẩn y khoa cho bác sĩ.' },
     { text: '4. Đánh giá thách thức vùng cao & Giải pháp: Phân tích rào cản địa lý và hạ tầng internet (giải pháp đồng bộ offline) cùng khó khăn của người cao tuổi khi dùng app (giải pháp trợ lý giọng nói tiếng Việt và sự hỗ trợ trực tiếp của y tá xã).' }
   ]
