@@ -716,7 +716,7 @@ function App() {
             </h3>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-12 gap-8 md:items-center items-start relative z-10">
+          <div className="grid grid-cols-1 md:grid-cols-12 gap-8 items-start relative z-10">
             {/* Left side: Profile Card */}
             <div className="md:col-span-4">
               <PortfolioIntroMedia />
